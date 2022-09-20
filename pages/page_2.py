@@ -34,5 +34,5 @@ with col1:
             st.text(f'年齢層:{ege_category}')
             st.text(f'趣味:{",".join(hobby)}')
 with col2:
-    df = pd.read_csv('./data/東日本営業部.csv')
+    df = pd.read_csv('./data/東日本営業部.csv',encoding="utf-8")
     st.dataframe(df)
