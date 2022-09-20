@@ -45,7 +45,6 @@ colorcet==2.0.6
 commonmark==0.9.1
 comtypes==1.1.10
 conda-pack==0.6.0
-conda-verify==3.4.2
 constantly==15.1.0
 cookiecutter==1.7.3
 cryptography==3.4.8
